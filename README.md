@@ -37,6 +37,7 @@ Program can price a cart of products from different countries, accept multiple p
 - clone program in your local repo
 - you can use **XAMPP** control pannel to run program localy
 - start your **Apache** server from XAMPP
+- open directory take-home > project
 - open project folder in any **Editor** such as phpstorme,vscode
 - open **terminal** and write php artisan serve
 - open API plateform like **Postman**
