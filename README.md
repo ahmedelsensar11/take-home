@@ -40,6 +40,8 @@ Program can price a cart of products from different countries, accept multiple p
 - open project folder in any **Editor** such as phpstorme,vscode
 - open **terminal** and write php artisan serve
 - open API plateform like **Postman**
+- use "domain/api/invoice" as an api endpoint
+- example : "http://127.0.0.1:8000/api/invoice"
 - use **post** method
 - select **body**
 - selest **row** and **JSON** format
