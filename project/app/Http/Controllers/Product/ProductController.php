@@ -58,5 +58,4 @@ class ProductController extends AvailableProductsController
             return response()->json($exception->getMessage());
         }
     }
-
 }
