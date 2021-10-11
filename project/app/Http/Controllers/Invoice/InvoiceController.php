@@ -26,7 +26,7 @@ class InvoiceController extends ProductController
             //get detailed invoice
             return $this->getDetailedInvoice($products);
         }else{
-            return response()->json('Please try to enter an array, EX: [product name 1, product name 2]');
+            return response()->json('Please try to enter a not empty array, EX: [item1, item2, item3]');
         }
     }
 
